@@ -1,0 +1,28 @@
+﻿  Bar.cpp
+  Building.cpp
+C:\Users\lucha\source\repos\AGCP-Assignment-2\Building.cpp(37,16): warning C4551: function call missing argument list
+  CombatController.cpp
+  Enemy.cpp
+  FrameResource.cpp
+  GameApp.cpp
+C:\Users\lucha\source\repos\AGCP-Assignment-2\GameApp.cpp(368,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+  GameObject.cpp
+  GameOverState.cpp
+  Input.cpp
+  MenuState.cpp
+  Plant.cpp
+  Player.cpp
+  PlayState.cpp
+  State.cpp
+  StoryState.cpp
+  Tile.cpp
+  Trader.cpp
+  TradeState.cpp
+  Velocity.cpp
+  WinMain.cpp
+  Generating Code...
+  Compiling...
+  SpriteManager.cpp
+  WinState.cpp
+  Generating Code...
+  AgcpProject2.vcxproj -> C:\Users\lucha\source\repos\AGCP-Assignment-2\x64\Debug\AgcpProject2.exe
