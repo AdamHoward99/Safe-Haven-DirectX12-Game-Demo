@@ -1,5 +1,5 @@
 <h1 align="center">Safe Haven - DirectX12</h1>
-<p align="center">This application is an vertical slice demo of a farming/survival game created using the DirectX12 API. This project required the creation of both the game and the game's engine simultaneously; a basic DX12 engine was provided that we built upon. Art assets for the game were created as placeholders but unfortunately we were unable to get hold of any game artists during the project.</p>
+<p align="center">This application is an vertical slice demo of a farming/survival game created using the DirectX12 API. This project required the creation of both the game and the game's engine simultaneously; a basic DX12 engine was provided that we built upon. Art assets for the game were created as placeholders but unfortunately we were unable to get hold of any game artists during the project. This repository only contains the demo application.</p>
 
 ## Screenshots
 <p align="center">
